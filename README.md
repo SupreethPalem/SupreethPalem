@@ -45,6 +45,18 @@ A production-ready, full-stack AI SaaS platform built from scratch — orchestra
 
 ---
 
+### 🤖 AI Resume Screening System
+> *Python (FastAPI) · TypeScript · React · Java · C++ · SQLite · SQLAlchemy · SSE · Distributed Systems*
+
+A cloud-scale, end-to-end AI-powered resume screening platform built with a service-oriented architecture — enabling real-time candidate evaluation across internet-scale data workflows.
+
+- 🏗️ **Architected scalable distributed pipelines** using FastAPI, Java backend services, and async Python (asyncio) with fault tolerance and data consistency at scale
+- ⚡ **Engineered C++ performance-critical scoring engine** for data-driven candidate ranking — optimized for throughput across high-volume evaluation workflows
+- 📡 **Real-time streaming** via SSE with full observability — telemetry, metrics, monitoring, and graceful degradation built in
+- ✅ **End-to-end full-stack delivery** — FastAPI + React + Java with comprehensive automated tests ensuring service reliability
+
+---
+
 ### ☁️ Serverless AI File Processing Pipeline
 > *AWS Lambda · S3 Presigned URLs · OpenAI API · EdTech*
 
