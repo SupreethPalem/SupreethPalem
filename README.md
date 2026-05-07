@@ -45,7 +45,7 @@ A production-ready, full-stack AI SaaS platform built from scratch — orchestra
 
 ---
 
-### 🤖 AI Resume Screening System
+### 🤖 ScreenFlow AI Resume Screening System
 > *Python (FastAPI) · TypeScript · React · Java · C++ · SQLite · SQLAlchemy · SSE · Distributed Systems*
 
 A cloud-scale, end-to-end AI-powered resume screening platform built with a service-oriented architecture — enabling real-time candidate evaluation across internet-scale data workflows.
