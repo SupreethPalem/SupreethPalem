@@ -35,6 +35,8 @@ I build things that ship — RAG pipelines, autonomous agents with persistent me
 
 ### 🧠 KnowAI — Cloud-Native AI SaaS Platform
 > *Groq LLM · Hugging Face · React · PostgreSQL · Supabase · Vercel Edge Functions · Google OAuth · Docker*
+> 
+> 🌐 **Live Demo:** [knowai-topaz.vercel.app](https://knowai-topaz.vercel.app)
 
 A production-ready, full-stack AI SaaS platform built from scratch — orchestrating **5+ real-time APIs** across serverless Vercel Edge Functions with enterprise-grade security.
 
@@ -45,7 +47,7 @@ A production-ready, full-stack AI SaaS platform built from scratch — orchestra
 
 ---
 
-### 🤖 ScreenFlow - AI Resume Screening System
+### 🤖 AI Resume Screening System
 > *Python (FastAPI) · TypeScript · React · Java · C++ · SQLite · SQLAlchemy · SSE · Distributed Systems*
 
 A cloud-scale, end-to-end AI-powered resume screening platform built with a service-oriented architecture — enabling real-time candidate evaluation across internet-scale data workflows.
