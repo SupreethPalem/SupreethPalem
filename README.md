@@ -77,10 +77,7 @@ Engineered a broadband service reservation system with real-time database integr
 
 ---
 
-### 🩺 Period Tracker
-> *HTML · Client-side Logic*
 
-A lightweight, privacy-first health tracking tool built entirely client-side — no data leaves the browser.
 
 ---
 
