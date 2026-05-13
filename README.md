@@ -75,7 +75,7 @@ A fully serverless pipeline that ingests PDFs, images, and Word docs and runs th
 
 Engineered a broadband service reservation system with real-time database integration enabling seamless customer-facing operations with backend reliability at its core.
 
----
+
 
 
 
